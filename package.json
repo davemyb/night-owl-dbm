@@ -4,6 +4,11 @@
 	"description": "A VS Code color theme based on the excellent Night Owl theme by Sarah Drasner",
 	"version": "1.0.0",
 	"publisher": "DBM Solutions",
+        "license": "MIT",
+	"repository": {
+		"url": "https://github.com/davemyb/night-owl-dbm",
+		"type": "git"
+	},
 	"keywords": [
 		"Theme",
 		"Dark Theme",
