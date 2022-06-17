@@ -1,7 +1,7 @@
 {
 	"name": "night-owl-dbm",
 	"displayName": "Night Owl DBM",
-	"description": "A VS Code color theme based on the excellent Night Owl theme by Sarah Drasner",
+	"description": "VS Code color themes based on the excellent Night Owl theme by Sarah Drasner, and the Default Dark+ VSCode theme.",
 	"version": "1.0.0",
 	"publisher": "DBM Solutions",
         "license": "MIT",
@@ -24,6 +24,11 @@
 	],
 	"contributes": {
 		"themes": [
+			{
+				"label": "Dark+ DBM",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_plus_dbm.json"
+			},
 			{
 				"label": "Night Owl DBM",
 				"uiTheme": "vs-dark",
